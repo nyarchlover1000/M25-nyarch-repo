@@ -1,2 +1,4 @@
 # M25-nyarch-repo
-arduinosketch
+MECH 0025
+Spring 2026
+Robert Fosselman
